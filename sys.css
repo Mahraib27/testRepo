@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(253, 216, 222);
+}
+
+.container {
+   width: auto;
+   height: auto;
+   display: flex;
+
+}
+.bar {
+    width: 40px;
+    height: 470px;
+    background-color: white;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.menu {
+    width: 40px;
+    height: 40px;
+    margin-left: px;
+    background-color: rgb(231, 45, 222);
+}
+.profile {
+    width: 30px;
+    height: 30px;
+    margin-top: 100px;
+    margin-left: 5px;
+
+}
+.message {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.edit {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.glasses {
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 6px;
+}
+.help {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.cloud {
+    width: 30px;
+    height: 30px;
+    margin-top: 80px;
+    margin-left: 5px;
+    
+}
+.pic {
+    width: 60%;
+    margin-left: px;
+    /* height: 1000px; */
+    height: 620px;
+    margin-top: -10px;
+}
+.content {
+    width: 53%;
+    height: 60%;
+    background-color: rgb(249, 246, 246);
+    float: right;
+    margin-top: -550px;
+    margin-right: 90px;
+    display: table-footer-group;
+}
