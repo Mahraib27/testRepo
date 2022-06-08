@@ -61,11 +61,12 @@ body {
     
 }
 .pic {
-    width: 60%;
+    width: 477px;
     margin-left: px;
     /* height: 1000px; */
-    height: 620px;
-    margin-top: -10px;
+    height: 618px;
+    margin-top: -4px;
+    box-shadow: 1px 1px 30px lightgrey
 }
 .content {
     width: 53%;
